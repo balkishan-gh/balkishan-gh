@@ -36,22 +36,9 @@ I'm a passionate full-stack developer with expertise in building modern web appl
 <!-- Projects Section -->
 ## Projects
 
-<a href="https://github.com/balkishan-gh/bamazon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=bamazon" />
-</a>
-<a href="https://github.com/balkishan-gh/secrets">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=secrets" />
-</a>
-
-<br />
-<br />
-
-<a href="https://github.com/balkishan-gh/omnifood">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=omnifood" />
-</a>
-
-<br />
-<br />
+[![Bamazon](https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=bamazon)](https://github.com/balkishan-gh/bamazon)
+[![Bamazon](https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=bamazon)](https://github.com/balkishan-gh/bamazon)
+[![Bamazon](https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=bamazon)](https://github.com/balkishan-gh/bamazon)
 
 Explore more on my [GitHub Profile](https://github.com/balkishan-gh).
 
@@ -64,7 +51,7 @@ Explore more on my [GitHub Profile](https://github.com/balkishan-gh).
 ## Contact Me
 
 - 📧 Email: [balkishan23dec@gmail.com](mailto:balkishan23dec@gmail.com)
-- 🐦 Twitter: [@balkishan_tw](https://twitter.com/YourTwitterHandle)
+- 🐦 Twitter: [@balkishan_tw](https://twitter.com/balkishan_tw)
 - 💼 Portfolio: [My Portfolio](https://balkishan.netlify.app)
 
 Let's connect and build something amazing together! 💻🚀
