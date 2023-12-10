@@ -37,8 +37,8 @@ I'm a passionate full-stack developer with expertise in building modern web appl
 ## Projects
 
 [![Bamazon](https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=bamazon)](https://github.com/balkishan-gh/bamazon)
-[![Bamazon](https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=bamazon)](https://github.com/balkishan-gh/bamazon)
-[![Bamazon](https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=bamazon)](https://github.com/balkishan-gh/bamazon)
+[![Secrets](https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=secrets)](https://github.com/balkishan-gh/secrets)
+[![Omnifood](https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=omnifood)](https://github.com/balkishan-gh/omnifood)
 
 Explore more on my [GitHub Profile](https://github.com/balkishan-gh).
 
