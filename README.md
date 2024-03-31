@@ -38,7 +38,7 @@ I'm a passionate full-stack developer with expertise in building modern web appl
 ## Projects
 
 [![Bamazon](https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=bamazon)](https://github.com/balkishan-gh/bamazon)
-[![Secrets](https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=secrets)](https://github.com/balkishan-gh/secrets)
+[![Secrets](https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=scrapify-bot)](https://github.com/balkishan-gh/scrapify-bot)
 [![Omnifood](https://github-readme-stats.vercel.app/api/pin/?username=balkishan-gh&repo=airbnb-clone)](https://github.com/balkishan-gh/airbnb-clone)
 
 Explore more on my [GitHub Profile](https://github.com/balkishan-gh).
